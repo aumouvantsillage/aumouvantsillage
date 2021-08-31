@@ -1,8 +1,3 @@
-Guillaume Savaton / Au mouvant sillage
---------------------------------------
-
-[guillaume.baierouge.fr](http://guillaume.baierouge.fr)
-
 This is my personal GitHub profile for my side projects.
 
 You can also visit the profile [Guillaume-Savaton-ESEO](https://github.com/Guillaume-Savaton-ESEO) that collects several projects related to my teaching and research activities at [ESEO](https://eseo.fr/).
